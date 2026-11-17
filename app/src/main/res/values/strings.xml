@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Browser</string>
+    <string name="search_hint">Search Google or enter URL</string>
+    <string name="open_address">Open address</string>
+    <string name="edit_address">Edit address</string>
+    <string name="tabs">Tabs</string>
+    <string name="tabs_count">Tabs (%1$d)</string>
+    <string name="new_tab">New tab</string>
+    <string name="close_tab">Close tab</string>
+    <string name="back">Back</string>
+    <string name="copy_link">Copy link</string>
+    <string name="reload">Reload</string>
+    <string name="page_error">Couldn’t open the page</string>
+    <string name="retry">Try again</string>
+    <string name="forward">Forward</string>
+    <string name="close_tabs">Close tab list</string>
+    <string name="ssl_error">The site’s security certificate could not be verified.</string>
+    <string name="cancel_edit">Cancel address editing</string>
+    <string name="expand_toolbar">Expand toolbar</string>
+    <string name="page_actions">Page actions</string>
+    <string name="close_panel">Close panel</string>
+</resources>

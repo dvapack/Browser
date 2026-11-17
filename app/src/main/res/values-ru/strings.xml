@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Браузер</string>
+    <string name="search_hint">Поиск Google или адрес</string>
+    <string name="open_address">Открыть адрес</string>
+    <string name="edit_address">Изменить адрес</string>
+    <string name="tabs">Вкладки</string>
+    <string name="tabs_count">Вкладки (%1$d)</string>
+    <string name="new_tab">Новая вкладка</string>
+    <string name="close_tab">Закрыть вкладку</string>
+    <string name="back">Назад</string>
+    <string name="copy_link">Скопировать ссылку</string>
+    <string name="reload">Обновить</string>
+    <string name="page_error">Не удалось открыть страницу</string>
+    <string name="retry">Повторить</string>
+    <string name="forward">Вперёд</string>
+    <string name="close_tabs">Закрыть список вкладок</string>
+    <string name="ssl_error">Не удалось проверить сертификат безопасности сайта.</string>
+    <string name="cancel_edit">Закрыть ввод адреса</string>
+    <string name="expand_toolbar">Развернуть панель</string>
+    <string name="page_actions">Действия со страницей</string>
+    <string name="close_panel">Закрыть панель</string>
+</resources>

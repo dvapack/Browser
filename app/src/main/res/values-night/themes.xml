@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.Browser" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#000000</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+</resources>
